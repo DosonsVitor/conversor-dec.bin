@@ -1,2 +1,2 @@
-# conversor-dec.bin
+# Conversor decimal/binario
 Conversos de números decimais para binarios
